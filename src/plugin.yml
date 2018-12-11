@@ -1,0 +1,8 @@
+name: CaptainPacks
+main: me.captain.pack.CaptainPacks
+author: captainawesome7
+version: 1.2
+commands:
+  pack:
+    Description: Do packs stuff
+    Usage: /pack <stuff>
